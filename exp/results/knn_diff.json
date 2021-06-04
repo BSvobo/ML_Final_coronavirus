@@ -1,0 +1,967 @@
+{
+    "Afghanistan": {
+        "minkowski": [
+            "Central African Republic"
+        ]
+    },
+    "Albania": {
+        "minkowski": [
+            "France"
+        ]
+    },
+    "Algeria": {
+        "minkowski": [
+            "Belgium"
+        ]
+    },
+    "Andorra": {
+        "minkowski": [
+            "Australia"
+        ]
+    },
+    "Angola": {
+        "minkowski": [
+            "Maldives"
+        ]
+    },
+    "Antigua and Barbuda": {
+        "minkowski": [
+            "Benin"
+        ]
+    },
+    "Argentina": {
+        "minkowski": [
+            "Maldives"
+        ]
+    },
+    "Armenia": {
+        "minkowski": [
+            "Belize"
+        ]
+    },
+    "Australia": {
+        "minkowski": [
+            "China"
+        ]
+    },
+    "Austria": {
+        "minkowski": [
+            "Belize"
+        ]
+    },
+    "Azerbaijan": {
+        "minkowski": [
+            "Belize"
+        ]
+    },
+    "Bahamas": {
+        "minkowski": [
+            "France"
+        ]
+    },
+    "Bahrain": {
+        "minkowski": [
+            "Malaysia"
+        ]
+    },
+    "Bangladesh": {
+        "minkowski": [
+            "Central African Republic"
+        ]
+    },
+    "Barbados": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "Belarus": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "Belgium": {
+        "minkowski": [
+            "United Kingdom"
+        ]
+    },
+    "Belize": {
+        "minkowski": [
+            "Canada"
+        ]
+    },
+    "Benin": {
+        "minkowski": [
+            "Botswana"
+        ]
+    },
+    "Bhutan": {
+        "minkowski": [
+            "Eswatini"
+        ]
+    },
+    "Bolivia": {
+        "minkowski": [
+            "Australia"
+        ]
+    },
+    "Bosnia and Herzegovina": {
+        "minkowski": [
+            "Botswana"
+        ]
+    },
+    "Botswana": {
+        "minkowski": [
+            "Benin"
+        ]
+    },
+    "Brazil": {
+        "minkowski": [
+            "Cameroon"
+        ]
+    },
+    "Brunei": {
+        "minkowski": [
+            "Central African Republic"
+        ]
+    },
+    "Bulgaria": {
+        "minkowski": [
+            "Bosnia and Herzegovina"
+        ]
+    },
+    "Burkina Faso": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "Burma": {
+        "minkowski": [
+            "Belize"
+        ]
+    },
+    "Burundi": {
+        "minkowski": [
+            "Cote d'Ivoire"
+        ]
+    },
+    "Cabo Verde": {
+        "minkowski": [
+            "France"
+        ]
+    },
+    "Cambodia": {
+        "minkowski": [
+            "Malaysia"
+        ]
+    },
+    "Cameroon": {
+        "minkowski": [
+            "Botswana"
+        ]
+    },
+    "Canada": {
+        "minkowski": [
+            "United Kingdom"
+        ]
+    },
+    "Central African Republic": {
+        "minkowski": [
+            "Cameroon"
+        ]
+    },
+    "Chad": {
+        "minkowski": [
+            "Botswana"
+        ]
+    },
+    "Chile": {
+        "minkowski": [
+            "Benin"
+        ]
+    },
+    "China": {
+        "minkowski": [
+            "Andorra"
+        ]
+    },
+    "Colombia": {
+        "minkowski": [
+            "Maldives"
+        ]
+    },
+    "Comoros": {
+        "minkowski": [
+            "Eswatini"
+        ]
+    },
+    "Congo (Brazzaville)": {
+        "minkowski": [
+            "Australia"
+        ]
+    },
+    "Congo (Kinshasa)": {
+        "minkowski": [
+            "Cyprus"
+        ]
+    },
+    "Costa Rica": {
+        "minkowski": [
+            "France"
+        ]
+    },
+    "Cote d'Ivoire": {
+        "minkowski": [
+            "Botswana"
+        ]
+    },
+    "Croatia": {
+        "minkowski": [
+            "Belize"
+        ]
+    },
+    "Cuba": {
+        "minkowski": [
+            "Nepal"
+        ]
+    },
+    "Cyprus": {
+        "minkowski": [
+            "Canada"
+        ]
+    },
+    "Czechia": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "Denmark": {
+        "minkowski": [
+            "United Kingdom"
+        ]
+    },
+    "Diamond Princess": {
+        "minkowski": [
+            "Australia"
+        ]
+    },
+    "Djibouti": {
+        "minkowski": [
+            "Central African Republic"
+        ]
+    },
+    "Dominica": {
+        "minkowski": [
+            "Algeria"
+        ]
+    },
+    "Dominican Republic": {
+        "minkowski": [
+            "Australia"
+        ]
+    },
+    "Ecuador": {
+        "minkowski": [
+            "Bolivia"
+        ]
+    },
+    "Egypt": {
+        "minkowski": [
+            "Central African Republic"
+        ]
+    },
+    "El Salvador": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "Equatorial Guinea": {
+        "minkowski": [
+            "Cameroon"
+        ]
+    },
+    "Eritrea": {
+        "minkowski": [
+            "Eswatini"
+        ]
+    },
+    "Estonia": {
+        "minkowski": [
+            "Botswana"
+        ]
+    },
+    "Eswatini": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "Ethiopia": {
+        "minkowski": [
+            "Djibouti"
+        ]
+    },
+    "Fiji": {
+        "minkowski": [
+            "Equatorial Guinea"
+        ]
+    },
+    "Finland": {
+        "minkowski": [
+            "Canada"
+        ]
+    },
+    "France": {
+        "minkowski": [
+            "United Kingdom"
+        ]
+    },
+    "Gabon": {
+        "minkowski": [
+            "France"
+        ]
+    },
+    "Gambia": {
+        "minkowski": [
+            "Australia"
+        ]
+    },
+    "Georgia": {
+        "minkowski": [
+            "Belize"
+        ]
+    },
+    "Germany": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "Ghana": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "Greece": {
+        "minkowski": [
+            "Bulgaria"
+        ]
+    },
+    "Grenada": {
+        "minkowski": [
+            "Bahamas"
+        ]
+    },
+    "Guatemala": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "Guinea": {
+        "minkowski": [
+            "Benin"
+        ]
+    },
+    "Guinea-Bissau": {
+        "minkowski": [
+            "Cote d'Ivoire"
+        ]
+    },
+    "Guyana": {
+        "minkowski": [
+            "France"
+        ]
+    },
+    "Haiti": {
+        "minkowski": [
+            "Liberia"
+        ]
+    },
+    "Holy See": {
+        "minkowski": [
+            "Algeria"
+        ]
+    },
+    "Honduras": {
+        "minkowski": [
+            "Botswana"
+        ]
+    },
+    "Hungary": {
+        "minkowski": [
+            "Bulgaria"
+        ]
+    },
+    "Iceland": {
+        "minkowski": [
+            "Belgium"
+        ]
+    },
+    "India": {
+        "minkowski": [
+            "Maldives"
+        ]
+    },
+    "Indonesia": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "Iran": {
+        "minkowski": [
+            "France"
+        ]
+    },
+    "Iraq": {
+        "minkowski": [
+            "Australia"
+        ]
+    },
+    "Ireland": {
+        "minkowski": [
+            "United Kingdom"
+        ]
+    },
+    "Israel": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "Italy": {
+        "minkowski": [
+            "Austria"
+        ]
+    },
+    "Jamaica": {
+        "minkowski": [
+            "France"
+        ]
+    },
+    "Japan": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "Jordan": {
+        "minkowski": [
+            "Bosnia and Herzegovina"
+        ]
+    },
+    "Kazakhstan": {
+        "minkowski": [
+            "Australia"
+        ]
+    },
+    "Kenya": {
+        "minkowski": [
+            "France"
+        ]
+    },
+    "Kiribati": {
+        "minkowski": [
+            "Algeria"
+        ]
+    },
+    "Korea, South": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "Kosovo": {
+        "minkowski": [
+            "France"
+        ]
+    },
+    "Kuwait": {
+        "minkowski": [
+            "Central African Republic"
+        ]
+    },
+    "Kyrgyzstan": {
+        "minkowski": [
+            "Central African Republic"
+        ]
+    },
+    "Laos": {
+        "minkowski": [
+            "Maldives"
+        ]
+    },
+    "Latvia": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "Lebanon": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "Lesotho": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "Liberia": {
+        "minkowski": [
+            "Australia"
+        ]
+    },
+    "Libya": {
+        "minkowski": [
+            "Benin"
+        ]
+    },
+    "Liechtenstein": {
+        "minkowski": [
+            "Belize"
+        ]
+    },
+    "Lithuania": {
+        "minkowski": [
+            "Belize"
+        ]
+    },
+    "Luxembourg": {
+        "minkowski": [
+            "Belize"
+        ]
+    },
+    "MS Zaandam": {
+        "minkowski": [
+            "Andorra"
+        ]
+    },
+    "Madagascar": {
+        "minkowski": [
+            "Cameroon"
+        ]
+    },
+    "Malawi": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "Malaysia": {
+        "minkowski": [
+            "Maldives"
+        ]
+    },
+    "Maldives": {
+        "minkowski": [
+            "Malaysia"
+        ]
+    },
+    "Mali": {
+        "minkowski": [
+            "Azerbaijan"
+        ]
+    },
+    "Malta": {
+        "minkowski": [
+            "Austria"
+        ]
+    },
+    "Marshall Islands": {
+        "minkowski": [
+            "Algeria"
+        ]
+    },
+    "Mauritania": {
+        "minkowski": [
+            "Austria"
+        ]
+    },
+    "Mauritius": {
+        "minkowski": [
+            "Andorra"
+        ]
+    },
+    "Mexico": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "Micronesia": {
+        "minkowski": [
+            "Algeria"
+        ]
+    },
+    "Moldova": {
+        "minkowski": [
+            "Estonia"
+        ]
+    },
+    "Monaco": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "Mongolia": {
+        "minkowski": [
+            "Cameroon"
+        ]
+    },
+    "Montenegro": {
+        "minkowski": [
+            "Botswana"
+        ]
+    },
+    "Morocco": {
+        "minkowski": [
+            "Belize"
+        ]
+    },
+    "Mozambique": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "Namibia": {
+        "minkowski": [
+            "Malaysia"
+        ]
+    },
+    "Nepal": {
+        "minkowski": [
+            "Malaysia"
+        ]
+    },
+    "Netherlands": {
+        "minkowski": [
+            "United Kingdom"
+        ]
+    },
+    "New Zealand": {
+        "minkowski": [
+            "United Kingdom"
+        ]
+    },
+    "Nicaragua": {
+        "minkowski": [
+            "Central African Republic"
+        ]
+    },
+    "Niger": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "Nigeria": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "North Macedonia": {
+        "minkowski": [
+            "Bosnia and Herzegovina"
+        ]
+    },
+    "Norway": {
+        "minkowski": [
+            "United Kingdom"
+        ]
+    },
+    "Oman": {
+        "minkowski": [
+            "Djibouti"
+        ]
+    },
+    "Pakistan": {
+        "minkowski": [
+            "Central African Republic"
+        ]
+    },
+    "Panama": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "Papua New Guinea": {
+        "minkowski": [
+            "Botswana"
+        ]
+    },
+    "Paraguay": {
+        "minkowski": [
+            "Maldives"
+        ]
+    },
+    "Peru": {
+        "minkowski": [
+            "France"
+        ]
+    },
+    "Philippines": {
+        "minkowski": [
+            "Djibouti"
+        ]
+    },
+    "Poland": {
+        "minkowski": [
+            "Austria"
+        ]
+    },
+    "Portugal": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "Qatar": {
+        "minkowski": [
+            "Central African Republic"
+        ]
+    },
+    "Romania": {
+        "minkowski": [
+            "Belize"
+        ]
+    },
+    "Russia": {
+        "minkowski": [
+            "Canada"
+        ]
+    },
+    "Rwanda": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "Saint Kitts and Nevis": {
+        "minkowski": [
+            "Algeria"
+        ]
+    },
+    "Saint Lucia": {
+        "minkowski": [
+            "Benin"
+        ]
+    },
+    "Saint Vincent and the Grenadines": {
+        "minkowski": [
+            "Mozambique"
+        ]
+    },
+    "Samoa": {
+        "minkowski": [
+            "Algeria"
+        ]
+    },
+    "San Marino": {
+        "minkowski": [
+            "Australia"
+        ]
+    },
+    "Sao Tome and Principe": {
+        "minkowski": [
+            "Chad"
+        ]
+    },
+    "Saudi Arabia": {
+        "minkowski": [
+            "Australia"
+        ]
+    },
+    "Senegal": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "Serbia": {
+        "minkowski": [
+            "Austria"
+        ]
+    },
+    "Seychelles": {
+        "minkowski": [
+            "Botswana"
+        ]
+    },
+    "Sierra Leone": {
+        "minkowski": [
+            "Canada"
+        ]
+    },
+    "Singapore": {
+        "minkowski": [
+            "Canada"
+        ]
+    },
+    "Slovakia": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "Slovenia": {
+        "minkowski": [
+            "Austria"
+        ]
+    },
+    "Solomon Islands": {
+        "minkowski": [
+            "Algeria"
+        ]
+    },
+    "Somalia": {
+        "minkowski": [
+            "Benin"
+        ]
+    },
+    "South Africa": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "South Sudan": {
+        "minkowski": [
+            "Benin"
+        ]
+    },
+    "Spain": {
+        "minkowski": [
+            "Australia"
+        ]
+    },
+    "Sri Lanka": {
+        "minkowski": [
+            "Malaysia"
+        ]
+    },
+    "Sudan": {
+        "minkowski": [
+            "Botswana"
+        ]
+    },
+    "Suriname": {
+        "minkowski": [
+            "Malaysia"
+        ]
+    },
+    "Sweden": {
+        "minkowski": [
+            "United Kingdom"
+        ]
+    },
+    "Switzerland": {
+        "minkowski": [
+            "Belize"
+        ]
+    },
+    "Syria": {
+        "minkowski": [
+            "Bulgaria"
+        ]
+    },
+    "Taiwan*": {
+        "minkowski": [
+            "Malaysia"
+        ]
+    },
+    "Tajikistan": {
+        "minkowski": [
+            "Canada"
+        ]
+    },
+    "Tanzania": {
+        "minkowski": [
+            "Canada"
+        ]
+    },
+    "Thailand": {
+        "minkowski": [
+            "Malaysia"
+        ]
+    },
+    "Timor-Leste": {
+        "minkowski": [
+            "Maldives"
+        ]
+    },
+    "Togo": {
+        "minkowski": [
+            "Botswana"
+        ]
+    },
+    "Trinidad and Tobago": {
+        "minkowski": [
+            "Malaysia"
+        ]
+    },
+    "Tunisia": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "Turkey": {
+        "minkowski": [
+            "Croatia"
+        ]
+    },
+    "US": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "Uganda": {
+        "minkowski": [
+            "Belize"
+        ]
+    },
+    "Ukraine": {
+        "minkowski": [
+            "France"
+        ]
+    },
+    "United Arab Emirates": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "United Kingdom": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "Uruguay": {
+        "minkowski": [
+            "Cuba"
+        ]
+    },
+    "Uzbekistan": {
+        "minkowski": [
+            "Australia"
+        ]
+    },
+    "Vanuatu": {
+        "minkowski": [
+            "Cabo Verde"
+        ]
+    },
+    "Venezuela": {
+        "minkowski": [
+            "Paraguay"
+        ]
+    },
+    "Vietnam": {
+        "minkowski": [
+            "Australia"
+        ]
+    },
+    "West Bank and Gaza": {
+        "minkowski": [
+            "Bulgaria"
+        ]
+    },
+    "Yemen": {
+        "minkowski": [
+            "Cameroon"
+        ]
+    },
+    "Zambia": {
+        "minkowski": [
+            "Comoros"
+        ]
+    },
+    "Zimbabwe": {
+        "minkowski": [
+            "Comoros"
+        ]
+    }
+}
